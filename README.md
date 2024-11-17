@@ -15,9 +15,6 @@ Implementation of Pseudorandom Number Generation Using Standard library
 5.End the program.
 
 ## PROGRAM:
-NAME: Dharini PV
-
-Register Number: 212222240024
 ```c
 #include <stdio.h>
 #include <stdlib.h>
